@@ -14,11 +14,10 @@ The project followed a structured software development process, covering require
 ## Project Information
 
 - **Project Type:** Academic Team Project
-- **Project Year:** 2025
+- **Project Year:** February 2025 – June 2025
 - **Role:** System Analyst & Software Testing Contributor
 - **Development Approach:** Agile / Sprint-Based Development
-- **Deployment:** [bloom-bouquet.com](https://bloom-bouquet.com)
-
+- 
 ## Roles & Responsibilities
 
 ### System Analysis
